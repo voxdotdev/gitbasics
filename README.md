@@ -17,7 +17,7 @@ code hello_world.txt
 <summary>
 Result
 </summary>
-see [hello_world.txt](hello_world.txt)
+<a href="hello_world.txt">Hello World file</a>
 </details>
 
 </br>
